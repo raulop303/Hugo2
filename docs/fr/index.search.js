@@ -1,23 +1,26 @@
 var relearn_search_index = [
   {
+    "breadcrumb": "Francés",
     "content": "",
     "description": "",
     "tags": null,
     "title": "Catégories",
-    "uri": "/fr/categories/index.html"
+    "uri": "/hugo2/fr/categories/index.html"
   },
   {
+    "breadcrumb": "",
     "content": "",
     "description": "",
     "tags": null,
     "title": "Francés",
-    "uri": "/fr/index.html"
+    "uri": "/hugo2/fr/index.html"
   },
   {
+    "breadcrumb": "Francés",
     "content": "",
     "description": "",
     "tags": null,
     "title": "Mots-clés",
-    "uri": "/fr/tags/index.html"
+    "uri": "/hugo2/fr/tags/index.html"
   }
 ]

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Inglés</title>
-    <link>/tags/index.html</link>
+    <link>https://raulop303.github.io/hugo2/tags/index.html</link>
     <description>Recent content in Tags on Inglés</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://raulop303.github.io/hugo2/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

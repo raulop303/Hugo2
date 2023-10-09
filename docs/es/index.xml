@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Español</title>
-    <link>/es/index.html</link>
+    <link>https://raulop303.github.io/hugo2/es/index.html</link>
     <description>Recent content on Español</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://raulop303.github.io/hugo2/es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

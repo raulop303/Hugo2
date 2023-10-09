@@ -1,23 +1,26 @@
 var relearn_search_index = [
   {
+    "breadcrumb": "Inglés",
     "content": "",
     "description": "",
     "tags": null,
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/hugo2/categories/index.html"
   },
   {
+    "breadcrumb": "",
     "content": "",
     "description": "",
     "tags": null,
     "title": "Inglés",
-    "uri": "/index.html"
+    "uri": "/hugo2/index.html"
   },
   {
+    "breadcrumb": "Inglés",
     "content": "",
     "description": "",
     "tags": null,
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/hugo2/tags/index.html"
   }
 ]

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francés</title>
-    <link>/fr/index.html</link>
+    <link>https://raulop303.github.io/hugo2/fr/index.html</link>
     <description>Recent content on Francés</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://raulop303.github.io/hugo2/fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

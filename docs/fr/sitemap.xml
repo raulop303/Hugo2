@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/categories/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="/es/categories/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="/es/categories/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="/fr/categories/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="/categories/index.html" />
+    <loc>https://raulop303.github.io/hugo2/fr/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://raulop303.github.io/hugo2/es/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://raulop303.github.io/hugo2/es/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://raulop303.github.io/hugo2/fr/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://raulop303.github.io/hugo2/categories/index.html" />
   </url>
   <url>
-    <loc>/fr/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="/es/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="/es/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="/fr/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="/index.html" />
+    <loc>https://raulop303.github.io/hugo2/fr/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://raulop303.github.io/hugo2/es/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://raulop303.github.io/hugo2/es/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://raulop303.github.io/hugo2/fr/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://raulop303.github.io/hugo2/index.html" />
   </url>
   <url>
-    <loc>/fr/tags/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="/es/tags/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="/es/tags/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="/fr/tags/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="/tags/index.html" />
+    <loc>https://raulop303.github.io/hugo2/fr/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://raulop303.github.io/hugo2/es/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://raulop303.github.io/hugo2/es/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://raulop303.github.io/hugo2/fr/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://raulop303.github.io/hugo2/tags/index.html" />
   </url>
 </urlset>
