@@ -1,0 +1,43 @@
+baseURL = 'https://raulop303.github.io/hugo2'
+
+
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme ="relearn"
+
+
+[outputs]
+  home = ["HTML", "RSS", "SEARCH"]
+
+[params]
+  mermaidInitialize = "{ \"theme\": \"dark\" }"
+  mermaidZoom = true
+
+[Languages]
+  [Languages.es]
+    title="Español"
+    LanguageName="Español"
+    weight =1
+    ContentDir="content/es"
+  [Languages.fr]
+    title="Francés"
+    LanguageName="Francés"
+    weight =2
+    ContentDir="content/fr"
+  [Languages.en]
+    title="Inglés"
+    LanguageName="Inglés"
+    weight =3
+    ContentDir="content/en"
+    
+
+[markup]
+  [markup.highlight]
+    # if `guessSyntax = true`, there will be no unstyled code even if no language
+    # was given BUT Mermaid and Math codefences will not work anymore! So this is a
+    # mandatory setting for your site if you want to use Mermaid codefences
+    guessSyntax = false
+
+
+
+  

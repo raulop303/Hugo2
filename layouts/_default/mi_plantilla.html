@@ -1,0 +1,12 @@
+
+{{- partial "header.html" . }}
+{{- partial "content.html" . }}
+
+<h1>Listado de alumnos</h1>
+<ul>
+{{ range .Site.Data.tv }}
+    {{ range .channels}}
+	    <a href="{{.web}}"></a><img src="{{.logo}}" alt="{{.name}}">
+	{{end}}
+{{end}}
+</ul>
